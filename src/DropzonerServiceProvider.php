@@ -1,4 +1,5 @@
-<?php namespace Codingo\Dropzoner;
+<?php
+namespace Ambang\Dropzoner;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
@@ -24,7 +25,7 @@ class DropzonerServiceProvider extends ServiceProvider
 
     public function setupRoutes(Router $router)
     {
-        $router->group(['namespace' => 'Codingo\Dropzoner\Http\Controllers'], function($router)
+        $router->group(['namespace' => 'Ambang\Dropzoner\Http\Controllers'], function($router)
         {
             require __DIR__.'/Http/routes.php';
         });

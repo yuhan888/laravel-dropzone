@@ -1,10 +1,10 @@
 <?php
 
-namespace Codingo\Dropzoner\Http\Controllers;
+namespace Ambang\Dropzoner\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use Codingo\Dropzoner\Repositories\UploadRepository;
+use Ambang\Dropzoner\Repositories\UploadRepository;
 
 class DropzonerController extends Controller
 {

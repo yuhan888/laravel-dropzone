@@ -1,9 +1,9 @@
 <?php
 
-namespace Codingo\Dropzoner\Repositories;
+namespace Ambang\Dropzoner\Repositories;
 
-use Codingo\Dropzoner\Events\ImageWasDeleted;
-use Codingo\Dropzoner\Events\ImageWasUploaded;
+use Ambang\Dropzoner\Events\ImageWasDeleted;
+use Ambang\Dropzoner\Events\ImageWasUploaded;
 use Intervention\Image\ImageManager;
 
 class UploadRepository

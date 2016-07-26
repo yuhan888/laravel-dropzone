@@ -1,6 +1,6 @@
 <?php
 
-namespace Codingo\Dropzoner\Events;
+namespace Ambang\Dropzoner\Events;
 
 abstract class Event
 {
