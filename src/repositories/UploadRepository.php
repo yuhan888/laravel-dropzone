@@ -4,7 +4,6 @@ namespace Ambang\Dropzoner\Repositories;
 
 use Ambang\Dropzoner\Events\ImageWasDeleted;
 use Ambang\Dropzoner\Events\ImageWasUploaded;
-use Intervention\Image\ImageManager;
 
 class UploadRepository
 {
