@@ -1,5 +1,5 @@
 {
-  "name": "Ambang/dropzoner",
+  "name": "ambang/dropzoner",
   "description": "Simpe Laravel package for image uploads using DropzoneJS library,Modify the codingo-me／dropzoner, thanks",
   "keywords":["laravel", "dropzone", "Am"],
   "license":"MIT",
@@ -15,7 +15,7 @@
   },
   "autoload":{
     "psr-4": {
-        "Ambang\\Dropzoner\\": "src/"
+        "ambang\\Dropzoner\\": "src/"
     }
   }
 }
