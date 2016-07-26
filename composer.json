@@ -1,21 +1,21 @@
 {
-  "name": "codingo-me/dropzoner",
-  "description": "Simpe Laravel package for image uploads using DropzoneJS library",
-  "keywords":["laravel", "dropzone"],
+  "name": "Ambang/dropzoner",
+  "description": "Simpe Laravel package for image uploads using DropzoneJS library,Modify the codingo-me／dropzoner, thanks",
+  "keywords":["laravel", "dropzone", "Am"],
   "license":"MIT",
   "authors": [
     {
-      "name": "Ivan Radunovic",
-      "email": "ivan@codingo.me"
+      "name": "Am",
+      "email": "yrzpin@163.com"
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=5.6.0",
     "intervention/image": "^2.3"
   },
   "autoload":{
     "psr-4": {
-        "Codingo\\Dropzoner\\": "src/"
+        "Ambang\\Dropzoner\\": "src/"
     }
   }
 }
