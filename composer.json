@@ -1,6 +1,6 @@
 {
   "name": "ambang/dropzoner",
-  "description": "Simpe Laravel package for image uploads using DropzoneJS library,Modify the codingo-me/dropzoner, thanks",
+  "description": "Simpe Laravel package for image uploads using DropzoneJS library,Modify the codingo-me/dropzoner, thanks。This package is incomplete, I project to use.Probably in version 2.0 will fix the problem。",
   "keywords":["laravel", "dropzone", "Am"],
   "license":"MIT",
   "authors": [
